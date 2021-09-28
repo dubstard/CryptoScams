@@ -41,6 +41,7 @@ blog.www.blog.shop.staging.personal-banking.site
 briefbank.top
 btc4elonmk.com
 buyinstagramviews.cabanova.com.joint2purchase.com
+cardanocharlesevent.com
 c.hase.c.om.security.sign.in.bosphorusmedia.com
 cbcconstrutorastore.dev.ipts-payment.top
 chase-secure03c-account-connect-fl.duckdns.org
@@ -159,6 +160,8 @@ onlinesec03blchasewebauth.co.vu
 onlinesec05blchasewebauth.co.vu
 onlinwww.blog.staging.magento.multi-banking.online
 ore.ipts-payment.top
+ripple2023.com
+ripple21.org
 sqs.exodusq.com
 stage.exodusq.com
 standard-quarterly-bank.mixh.jp
@@ -188,6 +191,7 @@ testing.exodusq.com
 the-supplier-portal.barclays.ludic.online
 tnh-konautdev.shop.personal-banking.site
 toiletswap.com
+trustwallet-twt.com
 truslwalt-finance.org
 ultimatecryptoinvest.co.uk
 unicredit.it.conto-corrente-5638031.for-our.info
