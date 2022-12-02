@@ -1,4 +1,3 @@
-	metamask.io.merge.dysistemas.com
 1inch-exchangess.site
 accountcoinbase.com
 airdrop.uniswap-v3.org-value.estimator.website
@@ -40,6 +39,7 @@ krakenpro.in
 krakenpro.life
 login-coinbase-secure.my03.com
 metamask.io.merge.ghantootomi.com
+metamask.io.merge.dysistemas.com
 pancakeswab.com
 pancakeswap.io
 pancakeswap.sesconcampinas.org.br
