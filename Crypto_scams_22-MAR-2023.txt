@@ -229,7 +229,6 @@ richcoins.net
 safcoinc.com
 sardine-metamask-test.sardine.biz
 savvy-payments.com
-scientific-type.balancer.fi
 seedfarm-mining.com
 seedify-claiming.pl
 signin-coinbase-dashboard.cloud
