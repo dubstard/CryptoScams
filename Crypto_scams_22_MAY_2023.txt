@@ -1,5 +1,3 @@
-
-	
 1inch-drops.pro
 1inch-event.top
 1inchx-drop.pro
